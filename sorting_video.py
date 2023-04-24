@@ -37,7 +37,7 @@ def my_sorting_algorithm(arr):
         fig.canvas.draw()
         img = np.array(fig.canvas.renderer.buffer_rgba())
         frames.append(img)
-
+    plt.show()
     # Save the frames as a video
     height, width, layers = frames[0].shape
     size = (width, height)
