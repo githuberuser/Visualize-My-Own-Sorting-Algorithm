@@ -6,7 +6,7 @@
   <h3 align="center">Visualize My Own Sorting Algorithm</h3>
 
   <p align="center">
-    This project is a Python script that visualizes your own sorting algorithm
+    This project is a Python script that visualizes your own sorting algorithm and saves the animation locally
     <br>
    
   </p>
