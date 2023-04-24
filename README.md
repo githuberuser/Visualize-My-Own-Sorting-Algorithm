@@ -1,2 +1,2 @@
-# Visualize-My-Own-Sorting-Algorithm
+# Visualize My Own Sorting Algorithm
 
