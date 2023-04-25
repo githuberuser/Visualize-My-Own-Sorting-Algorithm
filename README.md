@@ -45,4 +45,4 @@ If you like this project, hit that "Star" button. Thanks!!
 
 ## Final Result
 
-[![](https://github.com/githuberuser/Visualize-My-Own-Sorting-Algorithm/raw/main/result.png)](https://youtu.be/eXWidZiZQLE)
+[![](https://github.com/githuberuser/Visualize-My-Own-Sorting-Algorithm/raw/main/my_sorting_algorithm.gif)](https://youtu.be/eXWidZiZQLE)
