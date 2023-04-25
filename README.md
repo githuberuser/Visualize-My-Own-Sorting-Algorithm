@@ -12,13 +12,15 @@
   </p>
 </p>
 
+## Final Result
+
+[![](https://github.com/githuberuser/Visualize-My-Own-Sorting-Algorithm/raw/main/my_sorting_algorithm.gif)](https://youtu.be/eXWidZiZQLE)
 
 ## Table of contents
 
 - [Quick start](#quick-start)
 - [Contributing](#contributing)
 - [Thanks](#thanks)
-- [Final Result](#final-result)
 
 
 ## Quick start
@@ -43,6 +45,4 @@ This project is open to contributions. If you would like to contribute, please f
 
 If you like this project, hit that "Star" button. Thanks!! 
 
-## Final Result
 
-[![](https://github.com/githuberuser/Visualize-My-Own-Sorting-Algorithm/raw/main/my_sorting_algorithm.gif)](https://youtu.be/eXWidZiZQLE)
